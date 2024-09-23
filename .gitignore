@@ -12,3 +12,8 @@
 !sample.out/
 !sample.out/**
 !.gitignore
+!Dockerfile
+!fastgcd.sh
+!build.sh
+!run.sh
+!output/input.moduli
